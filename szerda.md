@@ -70,7 +70,7 @@ public partial class MainWindow : Window
 </details>
 
 <details>
-<summary>xaml<summary>
+<summary>xaml</summary>
 
 ```xml
 <Window x:Class="wpf_szerda.MainWindow"
