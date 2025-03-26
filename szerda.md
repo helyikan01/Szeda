@@ -68,6 +68,7 @@ public partial class MainWindow : Window
 }
 ```
 </details>
+
 <details>
 <summary>xaml<summary>
 
